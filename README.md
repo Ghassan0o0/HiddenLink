@@ -13,7 +13,7 @@
 ---------------------------------------------
 How to use:
 install the tool:
-
+git clone https://github.com/Ghassan0o0/HiddenLink
 
 run the file (HiddenLink)
 use the command:
