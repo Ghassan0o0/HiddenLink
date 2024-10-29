@@ -1,4 +1,4 @@
-
+#!/bin/bash
 trap bye EXIT
 v="\e[1;92m"
 b="\e[38;5;217m"
